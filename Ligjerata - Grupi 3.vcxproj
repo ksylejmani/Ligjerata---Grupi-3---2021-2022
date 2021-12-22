@@ -142,6 +142,7 @@
     <ClCompile Include="Faktorielicpp.cpp" />
     <ClCompile Include="Funksionet matematikore.cpp" />
     <ClCompile Include="kushti.cpp" />
+    <ClCompile Include="MeanAbsoluteError.cpp" />
     <ClCompile Include="Numrimi i anetareve te matrices.cpp" />
     <ClCompile Include="Numrimi i anetareve te vargut.cpp" />
     <ClCompile Include="NumriThjesht.cpp" />
@@ -155,6 +156,7 @@
     <ClCompile Include="ShumaMesAdheBMeFunksione.cpp" />
     <ClCompile Include="Temperatura e shporetit elektrik.cpp" />
     <ClCompile Include="Temperatura mesatare.cpp" />
+    <ClCompile Include="Ushtrim per detyren e pare.cpp" />
     <ClCompile Include="Vlera minimale e vargut.cpp" />
     <ClCompile Include="Zerat e kafsheve.cpp" />
   </ItemGroup>

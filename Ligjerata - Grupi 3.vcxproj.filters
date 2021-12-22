@@ -69,5 +69,11 @@
     <ClCompile Include="Zerat e kafsheve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MeanAbsoluteError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ushtrim per detyren e pare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
